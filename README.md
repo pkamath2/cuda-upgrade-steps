@@ -39,4 +39,4 @@ If you are like me and want to upgrade everything so that nvcc versions match wi
 Important Links:
 * https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#download-the-nvidia-cuda-toolkit  
 * https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=22.04&target_type=deb_local  
-* https://gist.github.com/denguir/b21aa66ae7fb1089655dd9de8351a202  (Note: This is a superb Gist. With the steps in this Gist, unfortunately, you may land up with different CUDA versions in ```nvidia-smi``` and ``nvcc --version```
+* https://gist.github.com/denguir/b21aa66ae7fb1089655dd9de8351a202  (Note: This is a superb Gist. With the steps in this Gist, unfortunately, you may land up with different CUDA versions in ```nvidia-smi``` and ```nvcc --version```
